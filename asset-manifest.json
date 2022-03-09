@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Stro-kovnik/static/css/main.a966ea98.chunk.css",
-    "main.js": "/Stro-kovnik/static/js/main.f073b837.chunk.js",
-    "main.js.map": "/Stro-kovnik/static/js/main.f073b837.chunk.js.map",
+    "main.js": "/Stro-kovnik/static/js/main.46935904.chunk.js",
+    "main.js.map": "/Stro-kovnik/static/js/main.46935904.chunk.js.map",
     "runtime-main.js": "/Stro-kovnik/static/js/runtime-main.02bb2250.js",
     "runtime-main.js.map": "/Stro-kovnik/static/js/runtime-main.02bb2250.js.map",
     "static/js/2.c1f01c64.chunk.js": "/Stro-kovnik/static/js/2.c1f01c64.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.02bb2250.js",
     "static/js/2.c1f01c64.chunk.js",
     "static/css/main.a966ea98.chunk.css",
-    "static/js/main.f073b837.chunk.js"
+    "static/js/main.46935904.chunk.js"
   ]
 }
