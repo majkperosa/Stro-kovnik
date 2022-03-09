@@ -62,10 +62,10 @@ const Statistika = (props) => {
 
     if (filter.length > 0) {
       setPlača(filter[0].value);
-      console.log(filter[0].value + "hooooooooooruk");
+      
     } else {
       setPlača(0);
-      console.log("horuk" + filter)
+      
     }
     
 
@@ -87,7 +87,7 @@ const Statistika = (props) => {
       const loadedPlača = [];
         
       for (const key in responseData) {
-        console.log("plačaaaa" + responseData[key].month)
+        
         loadedPlača.push({
           id: key,
           month: responseData[key].month,
