@@ -1,0 +1,21 @@
+.expenses {
+    padding: 1rem;
+    background-color:#7882A4 ;
+    margin: 2rem auto;
+  }
+
+  .expenses-list {
+    list-style: none;
+    padding: 0;
+  }
+  .expenses button {
+    font: inherit;
+    cursor: pointer;
+    padding: 1rem 2rem;
+    border: 1px solid #383e42;
+    background-color: #383e42;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+  
+  }
